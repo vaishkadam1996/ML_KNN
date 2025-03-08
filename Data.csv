@@ -1,0 +1,7 @@
+﻿ID,Name,Age,Gender,Salary,Target
+1,Sarah,25,Female,50000,0
+2,Ophrah,30,Male,60000,1
+3,Torben,22,Male,70000,0
+4,Masharahu,35,Male,80000,1
+5,Kaya,NaN,Female,55000,0
+6,Abandon,29,Male,NaN,1
